@@ -1,0 +1,12 @@
+﻿  enc_dec.c
+D:\code_Visual_Studio\VX&file_enc&dec\VX&file_enc&dec\enc_dec.c(67,23): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+  main.c
+D:\code_Visual_Studio\VX&file_enc&dec\VX&file_enc&dec\main.c(361,3): warning C4013: “RSA_key”未定义；假设外部返回 int
+D:\code_Visual_Studio\VX&file_enc&dec\VX&file_enc&dec\main.c(621,20): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+D:\code_Visual_Studio\VX&file_enc&dec\VX&file_enc&dec\main.c(634,20): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+    正在创建库 D:\code_Visual_Studio\VX&file_enc&dec\x64\Release\VX&file_enc&dec.lib 和对象 D:\code_Visual_Studio\VX&file_enc&dec\x64\Release\VX&file_enc&dec.exp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 42 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  VX&file_enc&dec.vcxproj -> D:\code_Visual_Studio\VX&file_enc&dec\x64\Release\VX&file_enc&dec.exe
